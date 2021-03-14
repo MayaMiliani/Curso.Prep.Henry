@@ -11,4 +11,4 @@
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/03-JS-II/homework/homework.js)
 
-npm test JSI.test.js
+npm test JSII.test.js
