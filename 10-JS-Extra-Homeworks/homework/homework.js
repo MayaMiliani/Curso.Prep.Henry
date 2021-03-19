@@ -10,7 +10,18 @@ function deObjetoAmatriz(objeto){
       C: 3
     }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
   //Escribe tu código aquí
+  var nuevoObjeto = {
+    x: 1,
+    y: 2,
+  }
+
+var nuevoObjeto = Object.entries(objeto);{
+  return nuevoObjeto
 }
+
+
+}
+
 
 
 function numberOfCharacters(string) {
